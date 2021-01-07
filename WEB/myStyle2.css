@@ -1,0 +1,41 @@
+table
+{
+	border: solid 2px black;
+	border-collapse: collapse;
+	margin: 12px;
+	background-color: Green;
+}
+
+tr,td,th
+{
+	border: solid 5px blue;
+	padding: 10px;
+	width: 100px;
+	padding-right: 200px;
+	text-align: center;
+}
+
+caption
+{
+	caption-side: top;
+	font-weight: bold;
+	margin: 5px;
+}
+
+
+nav
+{
+	border: solid 2px black;
+	border-collapse: collapse;
+	margin: 12px;
+	background-color: Green;
+	
+}
+nav li
+{
+	display: inline;
+	list-style-type: none;
+	padding-right: 80px;
+	padding-left: 50px;
+	border: solid 5px blue;
+}
